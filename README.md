@@ -9,10 +9,9 @@
 
 ---
 
-### Connect with me:
+### Profile Stats:
 
-[<img align="left" alt="huyphan6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>][linkedin]
-<br/>
+[![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyphan6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -33,6 +32,12 @@
 
 ---
 
+### Connect with me:
+
+[<img align="left" alt="huyphan6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>][linkedin]
+<br/>
+
+---
 
 [here]: https://instagram.com/hproductionz
 [linkedin]: https://linkedin.com/in/huyphan6
