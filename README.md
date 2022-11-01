@@ -9,20 +9,6 @@
 
 ---
 
-### Profile Stats:
-
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyphan6&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyphan6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huyphan6&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyphan6&layout=compact&theme=tokyonight" />
-</a> -->
-
----
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
@@ -44,6 +30,20 @@
 
 [<img align="left" alt="huyphan6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>][linkedin]
 <br/>
+
+---
+
+### Profile Stats:
+
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyphan6&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyphan6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huyphan6&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyphan6&layout=compact&theme=tokyonight" />
+</a> -->
 
 ---
 
