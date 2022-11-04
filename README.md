@@ -33,6 +33,7 @@
 [<img align="left" alt="CSS3" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/> ][css]
 [<img align="left" alt="JavaScript" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>][js]
 [<img align="left" alt="Node.js" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
+[<img align="left" alt="Express.js" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />][express]
 [<img align="left" alt="MySQL" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="Visual Studio Code" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>][vscode]
@@ -73,6 +74,7 @@
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [node]: https://nodejs.org/en/
+[express]: https://expressjs.com/
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [vscode]: https://code.visualstudio.com/
