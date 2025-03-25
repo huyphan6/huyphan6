@@ -17,8 +17,8 @@
 
 ### About:
 
-- 💻 I previously interned at Natixis Investment Managers as a software engineer during summer '22
-- 📚 I'm a recent Boston University grad with a degree in computer science (CO '23)
+- 💻 I previously interned at Natixis Investment Managers as a data engineer
+- 📚 I'm a recent Boston University grad with a degree in computer science
 - 🌱 I was student leader in BU's Computer Science Ambassadors and BU's Hack4Impact chapter
 - 📸 Fun fact: I love portrait photography - check out my work [here]
 
